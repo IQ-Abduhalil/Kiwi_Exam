@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.434d80bd.css",
+    "main.js": "/static/js/main.3c498988.js",
+    "static/media/profile-comp-img.svg": "/static/media/profile-comp-img.6d502cb62c48350c3743385f461c0091.svg",
+    "static/media/login-bg.png": "/static/media/login-bg.563065a0a7effe6758aa.png",
+    "static/media/profile-icon.svg": "/static/media/profile-icon.38e6a38210fc91b54ccd6e5dab46dded.svg",
+    "static/media/scroll-img1.png": "/static/media/scroll-img1.5feff8d11cc0dd71585f.png",
+    "static/media/scroll-img2.png": "/static/media/scroll-img2.f2bc3613bb3f53cfe32f.png",
+    "static/media/scroll-img3.png": "/static/media/scroll-img3.ca3d43abfe62631233db.png",
+    "static/media/footer-icon.svg": "/static/media/footer-icon.206137a651f4adef925f4a79b463f724.svg",
+    "static/media/hedaer-logo.svg": "/static/media/hedaer-logo.4b2730a0cd5f93b09eb8e963d3e0792d.svg",
+    "static/media/login-kivi.svg": "/static/media/login-kivi.fc63e57efe8b706ade5d47cd74cafdc5.svg",
+    "static/media/burger-icon.svg": "/static/media/burger-icon.796eff0172a42a1f852fcffadde5da9f.svg",
+    "static/media/right-icon.svg": "/static/media/right-icon.3955a6fb01eca78885c10de6d671d556.svg",
+    "static/media/left-icon.svg": "/static/media/left-icon.97c75b5c570088122adfd6d66d476e1c.svg",
+    "static/media/profile-green-up.svg": "/static/media/profile-green-up.cb2673ae2eaafadc90b775d84939b9fd.svg",
+    "static/media/profile-blue-up.svg": "/static/media/profile-blue-up.8a01d245b7b1d9747a37eeb28d325847.svg",
+    "static/media/plus-black.svg": "/static/media/plus-black.52dcc5a9f3a7a2adb8e2fb01b122ff2e.svg",
+    "static/media/select-icon.svg": "/static/media/select-icon.8d8db776da2b0a3c275449ed8f4e3dea.svg",
+    "index.html": "/index.html",
+    "static/media/footer-next.svg": "/static/media/footer-next.04353615ea6de21d1200632832e9fef1.svg",
+    "static/media/plus.svg": "/static/media/plus.92b8aebc96bebf515fcd74d2bbeb9195.svg",
+    "static/media/rounded.svg": "/static/media/rounded.24e77d54d4630e86777c.svg",
+    "main.434d80bd.css.map": "/static/css/main.434d80bd.css.map",
+    "main.3c498988.js.map": "/static/js/main.3c498988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d80bd.css",
+    "static/js/main.3c498988.js"
+  ]
+}
